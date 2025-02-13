@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm a Front-end Developer
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/restlucas">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=restlucas&theme=tokyonight&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/restlucas">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=restlucas&layout=compact&theme=tokyonight&langs_count=8&card_width=220" />
 </a>
 </div>
